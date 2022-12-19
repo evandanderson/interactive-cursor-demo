@@ -1,0 +1,9 @@
+body {
+    background-image: linear-gradient(43deg, #4158D0 0%, #C850C0 60%, #FFCC70 99%);
+    background-image: url("caleb-white-PLfzwAmflos-unsplash.jpg");
+    background-size: 105vw 105vh;
+    background-repeat: no-repeat;
+    height: 100vh;
+    width: 100vw;
+    margin: 0;
+}
